@@ -24,6 +24,12 @@ TicTacToe.vcxproj.filters
 TicTacToe.cpp
     This is the main application source file.
 
+TicTacToeGame.h
+	Header file for the game class. Contains the declarations for the classes variables and functions
+
+TicTacToeGame. cpp
+	cpp file for the game class. Contains the definitions of the classes variables and functions.
+
 /////////////////////////////////////////////////////////////////////////////
 AppWizard has created the following resources:
 
